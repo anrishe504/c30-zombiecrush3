@@ -1,1 +1,2 @@
-# c30-zombiecrush3
+# zombie-crush-3
+project solution of c31
